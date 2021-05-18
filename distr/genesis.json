@@ -1,0 +1,16 @@
+{
+  "config": {
+    "chainId": 98760,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "constantinopleFixBlock": 0
+  },
+  "alloc": {},
+  "nonce": "0x0",
+  "difficulty": "0x1",
+  "gasLimit": "0x888000"
+}
