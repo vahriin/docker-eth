@@ -4,3 +4,4 @@ package-lock.json
 onchain/build/
 onchain/test/
 client/
+distr/password
